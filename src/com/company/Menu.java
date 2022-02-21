@@ -14,7 +14,7 @@ public class Menu {
                 System.out.println("1 - Add new employee.");
                 System.out.println("2 - Show the list of employees.");
                 System.out.println("3 - Remove an employee.");
-                System.out.println("4 - Load saved products");
+                System.out.println("4 - Load saved list of employees");
                 System.out.println("0 - Save and Exit.");
                 System.out.print("Enter your choice (0-4): ");
 
